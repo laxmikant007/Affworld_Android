@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "335825201959",
+    "project_id": "affworld-42369",
+    "storage_bucket": "affworld-42369.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335825201959:android:c301c3b525432f20959702",
+        "android_client_info": {
+          "package_name": "com.Affworld.Affworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335825201959-vcmggakna0ienco2ufkktrot916mqruq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOT8QF_CgHv6XhaGZ57IPt3aHAOE3jj48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335825201959-vcmggakna0ienco2ufkktrot916mqruq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
