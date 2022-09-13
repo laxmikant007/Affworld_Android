@@ -15,7 +15,8 @@ import androidx.swiperefreshlayout.widget.SwipeRefreshLayout;
 
 public class MainActivity extends AppCompatActivity {
 
-    String websiteURL = "https://affworld.in/"; // sets web url
+
+    String websiteURL = "https://portal.affworld.in/"; // sets web url
     private WebView webview;
     SwipeRefreshLayout mySwipeRefreshLayout;
 
